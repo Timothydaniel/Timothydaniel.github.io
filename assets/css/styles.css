@@ -288,9 +288,9 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
-.skills__html{
+/* .skills__html{
   width: 95%;
-}
+} */
 .skills__css{
   width: 85%;
 }
